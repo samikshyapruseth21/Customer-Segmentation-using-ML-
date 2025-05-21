@@ -4,9 +4,7 @@
 
 - 📁 Project Structure
 Files/: Contains the input dataset provided by the retailer.
-
 Customer_Segmentation.ipynb: Jupyter Notebook detailing the data analysis, preprocessing, and clustering processes.
-
 
 - 🧠 Methodology
 Data Exploration: Initial analysis to understand data distribution, identify missing values, and detect outliers.
@@ -26,40 +24,32 @@ The clustering process revealed distinct customer segments, each exhibiting uniq
 Programming Language: Python
 
 Libraries:
-
 Pandas
-
 NumPy
-
 Matplotlib
-
 Seaborn
-
 Scikit-learn
 
 - 🚀 Getting Started
 Prerequisites
 Ensure you have the following installed:
-
 Python 3.x
-
 Jupyter Notebook
 
 - Installation
 Clone the Repository:
-git clone https://github.com/SagarPatel98/Customer-Segmentation-using-Machine-Learning.git
+git clone https://[github.com/Samikshya Pruseth/Customer-Segmentation-using-Machine-Learning](https://github.com/samikshyapruseth21/Customer-Segmentation-using-ML).git
 cd Customer-Segmentation-using-Machine-Learning
 Install Required Libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 - Run the Notebook:
 jupyter notebook Customer_Segmentation.ipynb
+
 - 📈 Future Enhancements
 Incorporate additional clustering algorithms like DBSCAN or Hierarchical Clustering for comparison.
-
 Implement dimensionality reduction techniques such as PCA for better visualization.
-
-Develop a web-based dashboard to interactively explore customer segments.
+Develop a web-based dashboard to explore customer segments interactively.
 
 - 📄 License
 This project is open-source and available under the MIT License.
